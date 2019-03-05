@@ -20,7 +20,7 @@ namespace test
         {
             int so1 = int.Parse(textBox1.Text);
             int so2 = int.Parse(textBox2.Text);       
-            int f = so1 + so2;
+            int so3 = so1 + so2;
         }
 
       
