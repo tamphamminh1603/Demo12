@@ -35,6 +35,7 @@
             // 
             // button1
             // 
+<<<<<<< HEAD
             this.button1.Location = new System.Drawing.Point(98, 149);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
@@ -48,14 +49,35 @@
             this.textBox1.Location = new System.Drawing.Point(73, 24);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 22);
+=======
+            this.button1.Location = new System.Drawing.Point(97, 122);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 0;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(50, 59);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(147, 22);
+>>>>>>> dda5f8c2298b3b21be0a6263857370712a7f4fe4
             this.textBox1.TabIndex = 1;
             // 
             // textBox2
             // 
+<<<<<<< HEAD
             this.textBox2.Location = new System.Drawing.Point(73, 71);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(100, 22);
             this.textBox2.TabIndex = 2;
+=======
+            this.textBox2.Location = new System.Drawing.Point(50, 12);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(147, 22);
+            this.textBox2.TabIndex = 1;
+>>>>>>> dda5f8c2298b3b21be0a6263857370712a7f4fe4
             // 
             // Form1
             // 
